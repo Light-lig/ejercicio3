@@ -3,7 +3,7 @@
  *Fecha:23  de julio del 2019
  *Version:1.0
  *copyright: Itca-Fepade
- *@autor: Douglas Menjivar Quiterio
+ *@autor: Douglas Menjivar Quiteriosasasa
  */
 package com.guia1;
 
